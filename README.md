@@ -1,7 +1,7 @@
 # 🚀 SoftDesign - Avaliação para Desenvolvedores (Back-end)
 
 Bem-vindo ao repositório do **Desafio SoftDesign - Back-end**.  
-Este projeto foi desenvolvido utilizando **Spring Boot** e tem como objetivo avaliar habilidades em construção de APIs REST.
+Este README fornece informações sobre como configurar, executar e utilizar o projeto.
 
 ---
 
