@@ -4,7 +4,7 @@ Bem-vindo ao repositório do Desafio SoftDesign. Este arquivo README fornece inf
 ## Pré-requisitos
 Antes de começar, assegure-se de que você tem os seguintes pré-requisitos instalados em sua máquina:
 
-* Java 11
+* Java 17
 * Maven
 * Docker
 
